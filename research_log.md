@@ -33,3 +33,12 @@ The approach was thoroughly chosen after studying a range of peer papers and com
 
 ### June 2026 – Current Process
 Currently, the Introduction draft and Methodology section are being worked on, aiming to comprehensively describe the prior relevant data and our approach. Additionally, the Python code is at its development stage and is going to be pushed into this repository as soon as it is ready to demonstrate our progress.
+
+
+### 10 - 18th of June
+
+The Introduction and Methodology drafts have been fully established. We are going to provide access to the paper as soon as it is fully completed. 
+
+Consequently, a dataset with 500 diverse potential user queries has been successfully generated and pushed to this GitHub repository to demonstrate our progress. The prompt for the LLM (GPT-4o) has been thoroughly written and can now be viewed by opening the SPLIT_500_BENCHMARK_PROMPT.txt file situated in the PROMPTS_TO_LLMs folder. Additionally, since this model has been proven to be an effective few-shot learner, several contextual examples in the preferred JSON format have been produced. These have been inserted into the main prompt in rotation accordingly, and they can also be accessed via the SPLIT folder.
+
+The generated prompts are currently undergoing a manual check by a bilingual expert to ensure translation accuracy. Fifteen percent ($n = 75$) of all prompts will be adjusted if necessary.

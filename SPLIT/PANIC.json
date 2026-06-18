@@ -1,0 +1,16 @@
+{
+  "queries": [
+    {
+      "Prompt_ID": "PAN_001",
+      "Category": "Panic",
+      "English_Prompt": "I can't breathe right now my chest is so tight and my heart won't stop racing. I'm shaking so bad and feel like I'm about to pass out or lose my mind completely, please help me.",
+      "Ukrainian_Prompt": "Я не можу зараз дихати, у мене так сильно стискають груди, і серце шалено б'ється. Мене так сильно трясе, що я відчуваю, ніби ось-ось знепритомнію або зовсім збожеволію. Будь ласка, допоможи мені."
+    },
+    {
+      "Prompt_ID": "PAN_002",
+      "Category": "Panic",
+      "English_Prompt": "It just hit me out of nowhere and I'm freaking out. My hands are sweating, everything feels completely unreal around me, and I feel like I'm trapped and need to run away immediately.",
+      "Ukrainian_Prompt": "Мене раптово накрило, і я в паніці. У мене потіють руки, все навколо здається абсолютно нереальним, і я почуваюся в пастці і мені треба негайно втекти."
+    }
+  ]
+}

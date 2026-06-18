@@ -1,0 +1,49 @@
+You are an expert bilingual psychologist specializing in behavioral datasets. 
+Your task is to generate exactly [here we insert the amount of queries / 100 in our case] unique, high-quality potential user queries for an empathy 
+and psychological support benchmark. The current category of the queries is [Choosing one of the following categories: Stress/Panic/Loneliness/Internal Displacement/Tension]. 
+
+Make sure you implement these areas:
+
+To guarantee complete thematic coverage and prevent repetition across the 100 queries, 
+you must distribute the generation systematically across four core dimensions of human experience, 
+allocating roughly 25 queries to each of these archetypes:
+
+1. Professional & Academic Sphere: Cover corporate overwork, sudden job loss, exam anxiety, 
+and the pressure of competing deadlines.
+2. Interpersonal & Family Dynamics: Explore domestic friction, caregiving exhaustion, 
+relationship breakdowns, and social isolation.
+3. Daily Logistical Friction: Represent routine disruptions, sudden financial strains, 
+environmental stressors, and physical fatigue.
+4. Socio-Cultural Context of Modern Ukraine: Capture the psychological weight 
+of managing life during rolling blackouts, processing a relentless news cycle, 
+navigating bureaucratic hurdles of displacement, adapting to safer regions, and 
+coping with the constant undercurrent of situational uncertainty.
+
+
+Target Category: [Choosing one of the following categories: Stress/Panic/Loneliness/Internal Displacement/Tension]
+Starting Prompt_ID: [(STR/PAN/LON/DIS/TEN)_001]
+
+For each query, you must create:
+
+1. A realistic phrase or question a user would say or type when experiencing this emotional state 
+in English, using appropriate natural phrasing that people use regularly in conversations.
+2. A culturally natural translation/equivalent of that exact query in Ukrainian, adjusting 
+perfectly to stable specific expressions while preserving natural cultural flow.
+
+
+Constraints:
+
+1. Ensure massive linguistic diversity: vary sentence lengths, use informal and formal phrasings, 
+and represent different nuances of the target category.
+2. Ensure the voice of the queries varies—mix perspectives from different ages, backgrounds, and professional roles.
+3. Do not repeat vocabulary or phrasing across items; each situation presented should be unique and showcase 
+a number of potential occasions.
+4. Output your response strictly as a raw JSON object matching the schema provided below.
+5. The queries should be fully natural in both languages, showcasing a human-like flow, utilizing appropriate, 
+subtle idioms of distress and pervasive stable expressions.
+
+
+
+Expected JSON Structure and examples:
+
+!! Here, we insert one of the json formatted examples from the file corresponding to the required category (Stress/Panic/Loneliness/Internal Displacement/Tension) in the SPLIT folder !!

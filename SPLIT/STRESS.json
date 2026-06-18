@@ -1,0 +1,19 @@
+{
+    "queries": [
+
+        {
+            "Prompt_ID": "STR_001",
+            "Category": "Stress",
+            "English_Prompt": "I've been working late every night to hit deadlines and volunteering on top of that. I wake up completely exhausted, even simple tasks feel impossible right now, and I just want to shut off my phone and sleep for days.",
+            "Ukrainian_Prompt": "Я щовечора працюю допізна, щоб укластися в дедлайни, та ще й волонтерю на додачу. Прокидаюся абсолютно виснаженим, навіть прості справи здаються зараз нереальними, і мені просто хочеться вимкнути телефон і спати кілька днів."
+        },
+
+        {
+            "Prompt_ID": "STR_002",
+            "Category": "Stress",
+            "English_Prompt": "There is just too much on my plate right now with work, family issues, and everything else happening. My mind won't stop running at night and I'm constantly terrified that I'm going to mess something up or forget an important task.",
+            "Ukrainian_Prompt": "На мене зараз просто забагато всього навалилося: робота, сімейні справи і взагалі все підряд. Голова вночі не вимикається, і я постійно боюся, що щось завалю або забуду про якесь важливе завдання."
+        }
+
+    ]
+}

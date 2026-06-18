@@ -1,0 +1,16 @@
+{
+  "queries": [
+    {
+      "Prompt_ID": "LON_001",
+      "Category": "Loneliness",
+      "English_Prompt": "I'm surrounded by people all day but I still feel completely invisible. It feels like nobody actually cares or would even notice if I just stopped showing up, and the silence at night is just getting too heavy.",
+      "Ukrainian_Prompt": "Цілий день мене оточують люди, але я все одно почуваюся зовсім непомітною. Таке відчуття, що нікому немає справи, і ніхто навіть не помітив, якби я просто перестала з'являтися, а нічна тиша стає нестерпною."
+    },
+    {
+      "Prompt_ID": "LON_002",
+      "Category": "Loneliness",
+      "English_Prompt": "Everyone else has their own groups and lives, and I'm just always the outsider looking in. I haven't had a real conversation with anyone in days and it's starting to make me feel so disconnected and hollow inside.",
+      "Ukrainian_Prompt": "У всіх інших свої компанії та своє життя, а я просто завжди спостерігаю збоку. Я вже кілька днів ні з ким до ладу не розмовляв, і це починає викликати в мене почуття відчуженості та порожнечі всередині."
+    }
+  ]
+}

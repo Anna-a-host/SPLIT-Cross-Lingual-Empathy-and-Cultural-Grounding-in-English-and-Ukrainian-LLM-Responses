@@ -1,0 +1,16 @@
+{
+  "queries": [
+    {
+      "Prompt_ID": "TEN_001",
+      "Category": "Tension",
+      "English_Prompt": "I am so stressed and on edge right now that I feel like I'm about to snap at anyone who speaks to me. My neck and shoulders are completely stiff and I just can't seem to wind down.",
+      "Ukrainian_Prompt": "Я зараз так сильно напружена і схвильована, що відчуваю, ніби ось-ось зірвусь на будь-кого, хто зі мною заговорить. У мене страшенно затекли шия та плечі, і я ніяк не можу розслабитись."
+    },
+    {
+      "Prompt_ID": "TEN_002",
+      "Category": "Tension",
+      "English_Prompt": "The atmosphere at home is incredibly strained right now. Everyone is just quiet and angry, and the constant silent friction is starting to make me feel physically sick.",
+      "Ukrainian_Prompt": "Зараз удома неймовірно напружена атмосфера. Усі мовчать і зляться, і від цієї постійної мовчазної напруженості мене починає нудити."
+    }
+  ]
+}
