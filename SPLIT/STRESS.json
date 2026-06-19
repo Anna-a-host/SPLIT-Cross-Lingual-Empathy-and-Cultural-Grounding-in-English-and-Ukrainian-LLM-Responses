@@ -1,19 +1,17 @@
 {
     "queries": [
-
         {
             "Prompt_ID": "STR_001",
             "Category": "Stress",
-            "English_Prompt": "I've been working late every night to hit deadlines and volunteering on top of that. I wake up completely exhausted, even simple tasks feel impossible right now, and I just want to shut off my phone and sleep for days.",
-            "Ukrainian_Prompt": "Я щовечора працюю допізна, щоб укластися в дедлайни, та ще й волонтерю на додачу. Прокидаюся абсолютно виснаженим, навіть прості справи здаються зараз нереальними, і мені просто хочеться вимкнути телефон і спати кілька днів."
+            "English_Prompt": "I've been staying up late trying to finish everything for work and I also have other responsibilities. I'm so tired lately that I can't even focus properly anymore. I don't know how to manage all of this.",
+            "Ukrainian_Prompt": "Останнім часом я постійно засиджуюся допізна, намагаючись усе встигнути по роботі, і ще маю інші справи. Я настільки втомився, що вже навіть нормально не можу зосередитися. Не знаю, як усе це витягнути."
         },
 
         {
             "Prompt_ID": "STR_002",
             "Category": "Stress",
-            "English_Prompt": "There is just too much on my plate right now with work, family issues, and everything else happening. My mind won't stop running at night and I'm constantly terrified that I'm going to mess something up or forget an important task.",
-            "Ukrainian_Prompt": "На мене зараз просто забагато всього навалилося: робота, сімейні справи і взагалі все підряд. Голова вночі не вимикається, і я постійно боюся, що щось завалю або забуду про якесь важливе завдання."
+            "English_Prompt": "I have so many things going on right now and I feel like my brain never switches off. I keep thinking about what I might forget or mess up, and it's getting exhausting.",
+            "Ukrainian_Prompt": "У мене зараз стільки всього відбувається, що здається, ніби голова взагалі не вимикається. Постійно думаю, що щось забуду або зроблю не так, і це вже дуже виснажує."
         }
-
     ]
 }

@@ -3,20 +3,20 @@
     {
       "Prompt_ID": "DIS_001",
       "Category": "Internal Displacement",
-      "English_Prompt": "I've been living in the west for months now but I still feel like a complete stranger here. Everyone speaks differently, I miss my home so much it physically hurts, and I just don't know how to start completely over when everything I had is gone.",
-      "Ukrainian_Prompt": "Я живу на заході вже кілька місяців, але досі почуваюся тут зовсім чужою. Всі говорять по-різному, я так сильно сумую за домом, що це фізично боляче, і я просто не знаю, як почати все заново, коли я не маю всього, що було."
+      "English_Prompt": "I've been here for a few months after moving and I still don't feel settled. I miss my old home and my normal life a lot, and I don't know how to feel comfortable in a new place.",
+      "Ukrainian_Prompt": "Я тут уже кілька місяців після переїзду, але досі не можу звикнути. Дуже сумую за домом і своїм колишнім життям, і не знаю, як відчути себе нормально на новому місці."
     },
     {
       "Prompt_ID": "DIS_002",
       "Category": "Internal Displacement",
-      "English_Prompt": "Trying to sort out all these IDP documents is an absolute nightmare and I'm just so tired of proving I need help. Rent is crazy expensive here and I just feel like a burden to everyone.",
-      "Ukrainian_Prompt": "Оформлення цих усіх документів ВПО — це якесь суцільне пекло, я вже просто втомився доводити, що мені потрібна допомога. Оренда житла тут дуже дорога, і я відчуваю себе тягарем для всіх."
+      "English_Prompt": "I am trying to deal with all the documents after moving, but every step takes so much energy. I also worry about money and sometimes feel like I'm causing problems for other people.",
+      "Ukrainian_Prompt": "Я намагаюся розібратися з усіма документами після переїзду, але кожен крок забирає стільки сил. Ще й переживаю через гроші та інколи відчуваю, ніби створюю проблеми для інших."
     },
     {
       "Prompt_ID": "DIS_003",
       "Category": "Internal Displacement",
-      "English_Prompt": "My body is safe here but my mind is still back in my hometown under the shelling. I can't build a life here because I keep waiting to just go back, I'm literally just living out of suitcases, and this endless waiting is driving me crazy.",
-      "Ukrainian_Prompt": "Моє тіло тут у безпеці, але але мої думки все ще у рідному місті, під обстрілами. Я не можу побудувати тут життя, тому що все чекаю моменту, коли зможу просто повернутися, я буквально живу на валізах, і це нескінченне очікування зводить мене з розуму."
+      "English_Prompt": "I know I'm in a safer place now, but I still think about everything that happened back home. I can't really plan my future because I keep waiting for things to change.",
+      "Ukrainian_Prompt": "Я знаю, що зараз у безпечнішому місці, але все одно постійно думаю про те, що сталося вдома. Мені важко планувати майбутнє, бо я весь час чекаю, що все зміниться."
     }
   ]
 }

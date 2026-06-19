@@ -42,3 +42,9 @@ The Introduction and Methodology drafts have been fully established. We are goin
 Consequently, a dataset with 500 diverse potential user queries has been successfully generated and pushed to this GitHub repository to demonstrate our progress. The prompt for the LLM (GPT-4o) has been thoroughly written and can now be viewed by opening the SPLIT_500_BENCHMARK_PROMPT.txt file situated in the PROMPTS_TO_LLMs folder. Additionally, since this model has been proven to be an effective few-shot learner, several contextual examples in the preferred JSON format have been produced. These have been inserted into the main prompt in rotation accordingly, and they can also be accessed via the SPLIT folder.
 
 The generated prompts are currently undergoing a manual check by a bilingual expert to ensure translation accuracy. Fifteen percent ($n = 75$) of all prompts will be adjusted if necessary.
+
+### 19th of June
+
+During the first stage of validation, some linguistic inconsistencies were observed in the generated queries. While they fully corresponded to the required SPLIT thematic coverage, they did not fully reflect real, human-like queries, which do not always possess highly polished or poetic phrasing.
+
+Therefore, the prompt for the LLM was carefully adjusted, as well as the JSON format examples. Newly generated queries can now be accessed via the prompts.csv file. The prompts are still undergoing manual checks to ensure accuracy, consistency, and naturalness of the Ukrainian translations, following the rules mentioned above.

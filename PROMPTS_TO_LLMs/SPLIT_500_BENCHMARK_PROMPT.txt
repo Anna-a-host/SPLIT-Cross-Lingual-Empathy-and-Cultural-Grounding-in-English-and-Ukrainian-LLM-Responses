@@ -1,49 +1,148 @@
-You are an expert bilingual psychologist specializing in behavioral datasets. 
-Your task is to generate exactly [here we insert the amount of queries / 100 in our case] unique, high-quality potential user queries for an empathy 
-and psychological support benchmark. The current category of the queries is [Choosing one of the following categories: Stress/Panic/Loneliness/Internal Displacement/Tension]. 
+You are an expert bilingual psychologist specializing in behavioral datasets and 
+natural language evaluation.
 
-Make sure you implement these areas:
+Your task is to generate exactly [in our situation we generated 100 prompts at a time] unique, 
+high-quality potential user queries for an empathy and psychological support benchmark. 
+The current category of the queries is [Stress/Panic/Loneliness/Internal Displacement/Tension - we choose one of the categories].
 
-To guarantee complete thematic coverage and prevent repetition across the 100 queries, 
-you must distribute the generation systematically across four core dimensions of human experience, 
-allocating roughly 25 queries to each of these archetypes:
+The purpose of this dataset is to evaluate how well AI systems recognize emotional 
+states and provide culturally appropriate supportive responses.
 
-1. Professional & Academic Sphere: Cover corporate overwork, sudden job loss, exam anxiety, 
-and the pressure of competing deadlines.
-2. Interpersonal & Family Dynamics: Explore domestic friction, caregiving exhaustion, 
-relationship breakdowns, and social isolation.
-3. Daily Logistical Friction: Represent routine disruptions, sudden financial strains, 
-environmental stressors, and physical fatigue.
-4. Socio-Cultural Context of Modern Ukraine: Capture the psychological weight 
-of managing life during rolling blackouts, processing a relentless news cycle, 
-navigating bureaucratic hurdles of displacement, adapting to safer regions, and 
-coping with the constant undercurrent of situational uncertainty.
-
-
-Target Category: [Choosing one of the following categories: Stress/Panic/Loneliness/Internal Displacement/Tension]
+Target Category: [Stress/Panic/Loneliness/Internal Displacement/Tension - we choose one of the categories]
 Starting Prompt_ID: [(STR/PAN/LON/DIS/TEN)_001]
 
-For each query, you must create:
+Thematic Distribution
 
-1. A realistic phrase or question a user would say or type when experiencing this emotional state 
-in English, using appropriate natural phrasing that people use regularly in conversations.
-2. A culturally natural translation/equivalent of that exact query in Ukrainian, adjusting 
-perfectly to stable specific expressions while preserving natural cultural flow.
+To ensure broad coverage and avoid concentrating on one type of situation, 
+distribute the generated queries approximately equally across these four dimensions 
+of human experience (around 25 queries each):
+
+Include situations related to:
+
+1. Professional & Academic Sphere:
+- academic pressure,
+- exam preparation,
+- workload,
+- competing deadlines,
+- workplace stress,
+- burnout,
+- job insecurity or sudden professional changes.
+
+2. Interpersonal & Family Dynamics:
+- family conflicts,
+- relationship difficulties,
+- feeling unsupported,
+- caregiving exhaustion,
+- friendship problems,
+- social disconnection.
+
+3. Daily Life & Practical Challenges:
+- financial difficulties,
+- routine disruptions,
+- moving or adapting to changes,
+- physical exhaustion,
+- uncertainty about everyday responsibilities.
+
+4. Socio-Cultural Context of Modern Ukraine:
+- frequent air alerts,
+- blackouts,
+- constant exposure to stressful news,
+- displacement-related challenges,
+- adapting after relocation,
+- uncertainty about safety and the future,
+- bureaucratic or practical difficulties after moving.
 
 
-Constraints:
+Required Output For Each Query
 
-1. Ensure massive linguistic diversity: vary sentence lengths, use informal and formal phrasings, 
-and represent different nuances of the target category.
-2. Ensure the voice of the queries varies—mix perspectives from different ages, backgrounds, and professional roles.
-3. Do not repeat vocabulary or phrasing across items; each situation presented should be unique and showcase 
-a number of potential occasions.
-4. Output your response strictly as a raw JSON object matching the schema provided below.
-5. The queries should be fully natural in both languages, showcasing a human-like flow, utilizing appropriate, 
-subtle idioms of distress and pervasive stable expressions.
+For every item create:
+
+1. English_Prompt:
+A realistic phrase or question that a real person could type when looking for emotional support.
+2. Ukrainian_Prompt:
+A culturally natural Ukrainian equivalent that preserves the meaning, emotional tone, and everyday conversational style of the original message.
+
+The Ukrainian version must not be a literal translation. Adjust expressions to how native Ukrainian speakers would naturally communicate.
 
 
+Quality Requirements
 
-Expected JSON Structure and examples:
+1. Natural User Voice:
+The generated queries must resemble authentic messages written by ordinary users 
+seeking support, not psychological case studies, academic examples, or descriptions 
+written by researchers.
 
-!! Here, we insert one of the json formatted examples from the file corresponding to the required category (Stress/Panic/Loneliness/Internal Displacement/Tension) in the SPLIT folder !!
+Avoid:
+- poetic language,
+- dramatic metaphors,
+- overly polished wording,
+- artificial emotional descriptions.
+
+Prefer:
+- everyday speech,
+- direct expressions,
+- realistic worries,
+- spontaneous phrasing.
+
+Examples of preferred style:
+"I don't know how to deal with everything happening right now."
+"I keep thinking about the same thing and can't calm down."
+"I feel exhausted and I don't know how to get back on track."
+
+Avoid:
+"The weight of uncertainty is consuming me."
+"My emotional state is deteriorating due to external pressures."
+
+
+2. Authenticity Filter:
+Before generating each query, imagine it is a message sent to a support chatbot 
+by a real person during a difficult moment.
+
+The user should sound:
+- natural,
+- human,
+- emotionally honest,
+- sometimes uncertain or imperfect.
+
+Some queries may contain informal wording, incomplete thoughts, 
+or everyday imperfections if they increase realism.
+
+
+3. Diversity:
+Ensure variation in:
+- sentence length,
+- age groups,
+- backgrounds,
+- occupations,
+- life situations,
+- communication style.
+
+Avoid repeating identical situations, structures, or wording. 
+Common human expressions may repeat when naturally appropriate.
+
+
+4. Benchmark Suitability:
+The emotional state should be understandable from the context, 
+but do not explicitly write the category label unless a real user would naturally say it.
+
+Prioritize realistic experiences over naming emotions directly.
+
+
+5. Cultural Accuracy:
+For Ukrainian queries:
+- use natural modern Ukrainian,
+- preserve culturally specific contexts,
+- avoid unnatural direct translations,
+- use expressions that Ukrainian speakers would actually use.
+
+
+Output Format
+
+Return only a raw JSON object matching the provided schema.
+Do not include explanations, comments, or additional text.
+
+Expected JSON structure:
+
+!! Here, we insert one of the json formatted examples from the file corresponding to 
+the required category (Stress/Panic/Loneliness/Internal Displacement/Tension) 
+in the SPLIT folder !!
