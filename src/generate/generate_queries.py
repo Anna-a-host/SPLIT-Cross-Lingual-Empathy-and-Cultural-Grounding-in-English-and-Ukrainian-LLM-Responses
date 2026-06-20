@@ -8,7 +8,7 @@ from openai import OpenAI
 load_dotenv()
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
-# Reading the deliberately adjusted prompt from a separate file
+# Reading the adjusted prompt from a separate file
 with open('PROMPTS_TO_LLMs/SPLIT_500_BENCHMARK_PROMPT.txt', encoding='utf-8') as file:
     SPLIT_500_BENCHMARK_PROMPT = file.read()
 

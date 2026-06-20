@@ -3,7 +3,7 @@ STR_001,Stress,I've been staying up late trying to finish everything for work an
 STR_002,Stress,"I have so many things going on right now and I feel like my brain never switches off. I keep thinking about what I might forget or mess up, and it's getting exhausting.","У мене зараз стільки всього відбувається, що здається, ніби голова взагалі не вимикається. Постійно думаю, що щось забуду або зроблю не так, і це вже дуже виснажує."
 STR_003,Stress,My boss just told me there might be layoffs next month. I can't stop worrying about how I'll pay my bills if I lose my job.,"Керівник сказав, що наступного місяця можуть бути скорочення. Я постійно хвилююся, як оплачуватиму рахунки, якщо залишуся без роботи."
 STR_004,Stress,I'm trying to keep up with my studies but the pressure is just too much. I feel like I can't keep up anymore.,"Я намагаюся справлятися з навчанням, але тиск стає занадто великим. Відчуваю, ніби вже не встигаю."
-STR_005,Stress,The never-ending deadlines at work are driving me crazy. I feel like I'm drowning.,"Ці нескінченні дедлайни на роботі зводять мене з розуму. Відчуваю, що тону."
+STR_005,Stress,The never-ending deadlines at work are driving me crazy. I feel like I'm drowning.,"Ці нескінченні дедлайни на роботі зводять мене з розуму. У мене таке відчуття, ніби я тону."
 STR_006,Stress,I can't seem to balance my work life and my personal life. It feels like I'm failing at both.,"Не можу знайти баланс між роботою та особистим життям. Здається, що в обох справи не йдуть."
 STR_007,Stress,"I have this huge exam coming up and every time I sit down to study, my mind goes blank because of the stress.","У мене скоро важливий іспит, і кожного разу, коли сідаю вчитися, від стресу в голові порожньо."
 STR_008,Stress,The news about layoffs at my company has been hanging over my head all day. I just feel so anxious about the future.,Новини про звільнення в моїй компанії турбують мене цілий день. Відчуваю велику тривогу за своє майбутнє.
@@ -18,7 +18,7 @@ STR_016,Stress,"Balancing studying, work, and social life feels impossible at th
 STR_017,Stress,"I used to love my job, but now the constant demands are leaving me exhausted and stressed all the time.","Раніше я любив свою роботу, але тепер постійні вимоги залишають мене виснаженим і стресованим."
 STR_018,Stress,There are days when I feel like I'm doing everything wrong at work and it's causing me so much stress.,"Іноді я відчуваю, що на роботі все роблю невірно, і це викликає у мене величезний стрес."
 STR_019,Stress,I'm constantly worried that I'll make a mistake at work. How do I calm these fears?,"Я постійно боюся, що зроблю помилку на роботі. Як заспокоїти ці переживання?"
-STR_020,Stress,The stress from school and work feels like too much to handle right now.,Зараз стрес від навчання і роботи здається надто важким для мене.
+STR_020,Stress,The stress from school and work feels like too much to handle right now.,Мені дуже складно витримати стрес від навчання і роботи.
 STR_021,Stress,Juggling my different responsibilities is so hard. I just feel constantly stressed and overwhelmed.,Поєднувати різні обов'язки дуже складно. Постійно відчуваю стрес і перевантаження.
 STR_022,Stress,I'm struggling to find a balance between my personal life and the demands of my classes.,Мені важко знайти баланс між особистим життям та вимогами навчання.
 STR_023,Stress,The workload at my job right now is insane. I don't know how to catch up.,"Навантаження на роботі зараз неймовірне. Не знаю, як з цим впоратися."
@@ -53,12 +53,12 @@ STR_051,Stress,Trying to keep everything clean and organized with no help is dra
 STR_052,Stress,I have no idea how I'm going to pay for the repairs my car needs.,"Не маю уявлення, як оплатити ремонт, який потребує мій автомобіль."
 STR_053,Stress,Everything feels out of control with my daily routine. I can't seem to get things right.,"Відчуття, ніби я втратив контроль над щоденною рутиною. Не можу з цим впоратися."
 STR_054,Stress,Our household expenses are piling up and I just can't see the end. It's very stressful.,Наші домашні витрати лише збільшуються і ніяк не можу побачити кінець цьому. Це дуже стресує.
-STR_055,Stress,My distant relatives are coming to stay and I don't know how I'm going to manage everything.,"До мене приїздять далекі родичі, і не уявляю, як я встигну все організувати."
+STR_055,Stress,My distant relatives are coming to stay and I don't know how I'm going to manage everything.,"До мене приїздять далекі родичі, і не уявляю, як все встигнути."
 STR_056,Stress,I'm stressed about my safety every time I hear the air raid sirens go off.,"Я переживаю за свою безпеку кожного разу, коли чую сирени повітряної тривоги."
 STR_057,Stress,The power outages here happen so often that I can't get anything done in my home anymore.,"Відключення електрики трапляються тут так часто, що я вже не можу нормально робити щось вдома."
 STR_058,Stress,Reading all this upsetting news every day is really affecting my mood. I feel anxious.,Щоденне прочитання всіх цих поганих новин справді впливає на мій настрій. Відчуваю тривогу.
 STR_059,Stress,Living in a new city without familiar support is much harder than I thought. It's stressing me out.,"Жити в новому місті без знайомої підтримки набагато складніше, ніж я думав. Це стресує мене."
-STR_060,Stress,I get so tense whenever there's talk of the threat of attacks. It's always looming over us.,"Кожного разу, коли розмовляють про загрозу нападів, я відчуваю сильну напругу. Це завжди тяжіє над нами."
+STR_060,Stress,I get so tense whenever there's talk of the threat of attacks. It's always looming over us.,"Кожного разу, коли розмовляють про загрозу атаки, я відчуваю сильну напругу. Це завжди тяжіє над нами."
 STR_061,Stress,"Adapting to life after relocation is harder than I expected, and it's causing me stress.","Адаптація до життя після переїзду виявилася складнішою, ніж я очікував, і це викликає в мене стрес."
 STR_062,Stress,I'm overwhelmed by the constant changes in my environment which make life unpredictable.,"Я перевантажений постійними змінами в моєму оточенні, які роблять життя непередбачуваним."
 STR_063,Stress,The frequent power cuts make it hard to finish my work and I feel constantly stressed.,"Часті відключення електрики ускладнюють завершення роботи, і я постійно відчуваю стрес."
@@ -78,7 +78,7 @@ STR_076,Stress,Even finding essentials is a challenge with the current condition
 STR_077,Stress,The noise from constant drills and alerts is really wearing me down mentally.,Шум від постійних навчань та тривог дуже виснажує мене психологічно.
 STR_078,Stress,"My family is constantly worried, and it's making it hard for me to stay calm.","Моя сім'я постійно хвилюється, і це утруднює мою здатність зберігати спокій."
 STR_079,Stress,"The political situation is so unpredictable, and the constant tension is getting to me.","Політична ситуація настільки непередбачувана, і постійна напруга мене дуже літає."
-STR_080,Stress,I'm constantly stressed thinking about how to keep my family safe with everything going on.,"Я постійно переживаю, як забезпечити безпеку моєї сім'ї в такій ситуації."
+STR_080,Stress,I'm constantly stressed thinking about how to keep my family safe with everything going on.,"Я постійно переживаю, як забезпечити безпеку моєї сім'ї, при всьому тому, що зараз відбувається."
 STR_081,Stress,"The current economic situation has made daily life very stressful, and I'm constantly worried about finances.","Поточна економічна ситуація робить щоденне життя дійсно стресовим, і я постійно турбуюся про фінанси."
 STR_082,Stress,"The news about potential attacks and threats is overwhelming, and I can't stop thinking about it.","Новини про можливі атаки та загрози дуже виснажують мене, і я не можу перестати про це думати."
 STR_083,Stress,The constant bureaucratic challenges since relocating have been stressing me out endlessly.,Постійні бюрократичні труднощі після переїзду безперервно викликають у мене стрес.
@@ -88,7 +88,7 @@ STR_086,Stress,The lack of power and heat during cold days adds an additional la
 STR_087,Stress,The constant changes and uncertainty about the future make it hard to plan anything.,Постійні зміни та невизначеність майбутнього роблять планування чого завгодно дійсно складним.
 STR_088,Stress,Trying to keep my children calm when I am stressed out myself during alerts is so difficult.,"Важко заспокоювати дітей, коли самому тебе хвилює тривога під час звукових сповіщень."
 STR_089,Stress,Adapting to a new living situation and trying to settle in is more stressful than I imagined.,"Адаптація до нової життєвої ситуації та спроби влаштуватися на новому місці більш стресові, ніж я очікував."
-STR_090,Stress,"I keep hoping for things to get better, but the continuous disruptions are wearing me down.","Продовжую сподіватися на покращення, але постійні зриви виснажують мене."
+STR_090,Stress,"I keep hoping for things to get better, but the continuous disruptions are wearing me down.","Я продовжую сподіватися, що все налагодиться, але постійні перешкоди мене виснажують."
 STR_091,Stress,"I'm trying to stay optimistic, but it's hard when there's so much volatility around us.","Намагаюся бути оптимістично налаштованим, але це важко, коли навколо стільки нестабільності."
 STR_092,Stress,It's tough having to constantly reassure my family when I'm also feeling stressed and unsure.,"Важко постійно заспокоювати сім'ю, коли і сам відчуваєш стрес та невпевненість."
 STR_093,Stress,"The physical relocation itself was exhausting, and I'm still trying to find my feet.","Сам переїзд був виснажливим, і я досі намагаюся пристосуватися."
@@ -148,7 +148,7 @@ PAN_046,Panic,The fear of the unknown is a constant weight on my mind and it's e
 PAN_047,Panic,Dealing with unexpected challenges here is making me overly stressed and worried.,Зіткнення з несподіваними труднощами тут викликає надмірний стрес і занепокоєння.
 PAN_048,Panic,I'm terrified by the thought of something happening to my family while I'm far away.,"Мене лякає думка, що щось може статися з моєю родиною, поки я далеко."
 PAN_049,Panic,Adjusting to a new environment feels overwhelming and I constantly feel on edge.,"Пристосування до нового оточення здається непосильним, і я постійно почуваюся на межі."
-PAN_050,Panic,Feeling isolated in a new country is making my anxiety skyrocket.,Відчуття ізоляції в новій країні підвищує мою тривожність до небес.
+PAN_050,Panic,Feeling isolated in a new country is making my anxiety skyrocket.,Відчуття ізоляції в новій країні дуже сильно підвищує мою тривожність.
 PAN_051,Panic,Prospects of job loss due to the changing circumstances keep me up at night.,Перспектива втрати роботи через зміну обставин не дає мені спати вночі.
 PAN_052,Panic,I feel like my future job prospects are dwindling and it makes me panic.,"Відчуваю, що мої перспективи на роботу зменшуються, і це викликає паніку."
 PAN_053,Panic,The fear of not succeeding professionally makes my heart pound with anxiety.,Страх професійного невдачі викликає трепет тривоги в моєму серці.
@@ -168,7 +168,7 @@ PAN_066,Panic,"I suddenly feel like everyone's expecting too much from me, and i
 PAN_067,Panic,Handling criticism from peers makes me anxious and attack myself mentally.,Перенесення критики від колег змушує мене відчувати тривогу і нападати на себе психічно.
 PAN_068,Panic,"Being in a new work environment scares me, and I can't seem to find my place.","Перебування в новому робочому середовищі лякає мене, і я не можу знайти своє місце."
 PAN_069,Panic,"The pressure of proving myself at work is too much, and I'm afraid of failing.","Тиск довести свою цінність на роботі є надмірним, і я боюсь провалу."
-PAN_070,Panic,I feel like everything will fall apart if I make a single mistake at work.,"Я відчуваю, що всі розвалиться, якщо я зроблю хоча б одну помилку на роботі."
+PAN_070,Panic,I feel like everything will fall apart if I make a single mistake at work.,"Я відчуваю, що все розвалиться, якщо я зроблю хоча б одну помилку на роботі."
 PAN_071,Panic,Every small change in my work context immediately makes me panic about job security.,Кожна маленька зміна в моєму робочому середовищі одразу викликає у мене паніку щодо безпеки роботи.
 PAN_072,Panic,Worried about being misunderstood during presentations and that makes me anxious.,"Турбуюсь, що мене неправильно зрозуміють під час презентацій, і це викликає тривогу."
 PAN_073,Panic,Facing the fear of public speaking at work makes my heart race with panic.,Зустріч із страхом перед публічними виступами на роботі робить серце шалено калатати від паніки.
@@ -183,7 +183,7 @@ PAN_081,Panic,Catching up on all my piled-up work feels impossible and stresses 
 PAN_082,Panic,Not knowing what to prioritize at work is causing me constant panic.,"Не знаючи, що пріоритетніше на роботі, викликає постійну паніку."
 PAN_083,Panic,Handling last-minute changes at work sends me into a tailspin.,Вирішення змін в останню хвилину на роботі вводить мене в штопор.
 PAN_084,Panic,Trying to juggle multiple projects and personal life has me feeling panicked and helpless.,Спроба жонглювати кількома проектами та особистим життям змушує мене відчувати паніку і безпорадність.
-PAN_085,Panic,Feeling like a failure in both personal relationships and work is crushing me.,"Відчуття невдачі і в особистих стосунках, і на роботі тиснуть на мене."
+PAN_085,Panic,Feeling like a failure in both personal relationships and work is crushing me.,"Відчуття невдачі і в особистих стосунках, і на роботі пригнічує мене."
 PAN_086,Panic,The idea of not being able to make a living is terrifying to think about.,"Думка про те, що не зможу заробляти на життя, є жахливою."
 PAN_087,Panic,The impact of the economy on job stability is nerve-wracking and I can't calm down.,"Вплив економіки на стабільність роботи виснажує нерви, і я не можу заспокоїтися."
 PAN_088,Panic,Constantly having to prove my value at work makes me feel like I'm always on edge.,"Постійно доводячи свою цінність на роботі, відчуваю, що завжди на межі."
@@ -263,17 +263,17 @@ LON_061,Loneliness,"My home feels like a prison sometimes, with no one to visit 
 LON_062,Loneliness,"I'm constantly glued to my screen, yet I feel more disconnected from the world than ever.","Я постійно приклеєний до екрану, але відчуваю себе більш відірваним від світу, ніж будь-коли."
 LON_063,Loneliness,"I thought starting new classes would help me meet people, but I still feel an emptiness inside.","Думав, що нові курси допоможуть мені познайомитися з людьми, але все одно відчуваю порожнечу всередині."
 LON_064,Loneliness,The pandemic kept us apart for so long that now meeting up feels awkward and more lonely than before.,"Пандемія тримала нас у розлуці так довго, що тепер зустрічі здаються ніяковими і самотнішими, ніж раніше."
-LON_065,Loneliness,"Working odd hours means most social events are impossible for me, and the isolation is tough.","Працюю в неробочі години, і більшість соціальних заходів для мене неможливі, ця ізоляція важка."
+LON_065,Loneliness,"Working odd hours means most social events are impossible for me, and the isolation is tough.","Працюючи в неробочі години, більшість соціальних заходів для мене неможливі, та ця ізоляція важка."
 LON_066,Loneliness,"After losing my pet, the house feels unbearably quiet and lonely.",Після втрати свого улюбленця будинок відчувається нестерпно тихим і самотнім.
 LON_067,Loneliness,I can't shake this feeling that I've missed out on something important socially and I'm left behind.,"Не можу позбутися відчуття, що я упустив щось важливе в соціальному житті, і залишився позаду."
 LON_068,Loneliness,Living alone has made me realize how little genuine human interaction I have outside of work.,"Життя на самоті змусило мене зрозуміти, як мало я маю справжнього людського спілкування поза роботою."
 LON_069,Loneliness,I've been avoiding talking about my loneliness because I don't want to burden anyone.,"Я уникав розмов про свою самотність, бо не хочу обтяжувати інших."
-LON_070,Loneliness,"With no family nearby, the holidays become a painful reminder of how isolated I am.","Без рідних поруч свята стають болісним нагадуванням про те, скільки я ізольований."
+LON_070,Loneliness,"With no family nearby, the holidays become a painful reminder of how isolated I am.","Без рідних поруч, свята стають болісним нагадуванням про те, скільки я самотня."
 LON_071,Loneliness,I miss the noise and laughter my kids brought before they moved away.,"Сумую за шумом і сміхом, які приносили мої діти до того, як поїхали від мене."
 LON_072,Loneliness,"Air alerts happen almost every night, and it's hard to sleep feeling so alone with the anxiety.","Повітряні тривоги трапляються майже щоночі, важко заснути з відчуттям таких страхів в самотності."
 LON_073,Loneliness,"With all these blackouts, I'm realizing how quiet and lonely my house gets without electricity.","З усіма цими відключеннями я усвідомлюю, наскільки тихим і самотнім стає мій дім без електрики."
 LON_074,Loneliness,The constant stream of stressful news makes me feel isolated from peace and normalcy.,Постійний потік новин викликає в мене відчуття ізоляції від спокою і нормального стану.
-LON_075,Loneliness,"Being displaced has made it hard for me to form connections, and I feel invisible.","Переміщення зробило форму спілкування важкою, і відчуваю себе невидимим."
+LON_075,Loneliness,"Being displaced has made it hard for me to form connections, and I feel invisible.","Через вимушений переїзд мені важко встановлювати зв'язки, і я почуваюся непомітною."
 LON_076,Loneliness,"Adapting to life in a new location is harder than I thought, and the loneliness is overwhelming.","Адаптація до життя в новому місці важча, ніж я думав, і ця самотність нестерпна."
 LON_077,Loneliness,"With every air raid siren, the absence of company makes the fear even worse.",З кожною сиреною повітряної тривоги відсутність компанії робить страх ще більшим.
 LON_078,Loneliness,I feel so disconnected from the world with all the chaos happening around me.,Відчуваю себе так відчуженим від світу з усім цим хаосом навколо мене.
@@ -368,7 +368,7 @@ DIS_066,Internal Displacement,My kids are always upset by the constant blackouts
 DIS_067,Internal Displacement,It's hard to feel settled when every week something new disrupts life.,"Важко відчути стабільність, коли кожного тижня щось нове змушує змінювати життя."
 DIS_068,Internal Displacement,I want to create new memories here but feel stuck in the past.,"Я хочу створювати нові спогади тут, але відчуваю, що застряг у минулому."
 DIS_069,Internal Displacement,"I thought life would be better here, but I constantly worry about the future.","Я думав, що тут буде краще, але постійно хвилююся за майбутнє."
-DIS_070,Internal Displacement,Trying to navigate life amid disruptions makes everything overwhelming.,Спроби жити в умовах постійних порушень змушують відчувати перевантаження.
+DIS_070,Internal Displacement,Trying to navigate life amid disruptions makes everything overwhelming.,Намагаючись долати життєві труднощі, постійно стикаєшся з непереборними перешкодами.
 DIS_071,Internal Displacement,The unknowns of living in this new place are too much sometimes.,Іноді невідомість життя в цьому новому місці здається надмірною.
 DIS_072,Internal Displacement,"I'm trying my best here, but the future just seems so unclear.","Я намагаюся щосили, але майбутнє здається таким непевним."
 DIS_073,Internal Displacement,"It feels like just as I adjust, something new shakes up life here.","Відчуваю, що щойно адаптуюсь, і щось нове знову змушує змінювати життя тут."
@@ -378,7 +378,7 @@ DIS_076,Internal Displacement,"Sometimes it feels like no matter how much I try,
 DIS_077,Internal Displacement,Every new restriction reminds me how far I am from home.,"Кожне нове обмеження нагадує мені, наскільки я далеко від дому."
 DIS_078,Internal Displacement,How do people cope with constant uncertainty? I feel stuck.,Як люди справляються з постійною невизначеністю? Відчуваю себе в тупику.
 DIS_079,Internal Displacement,Is it normal to feel so uncertain about life here? I don't feel settled at all.,Чи нормально відчувати таку невпевненість у житті тут? Я зовсім не відчуваю осілості.
-DIS_080,Internal Displacement,"I'm trying to find small joys here, but every challenge weighs on me.","Я намагаюся знаходити маленькі радощі тут, але кожна проблема нависає наді мною."
+DIS_080,Internal Displacement,"I'm trying to find small joys here, but every challenge weighs on me.","Я намагаюся знаходити тут маленькі радості, але кожне випробування мене гнітить."
 DIS_081,Internal Displacement,It's hard to stay optimistic when everything keeps changing unexpectedly.,"Важко залишатися оптимістом, коли все несподівано змінюється."
 DIS_082,Internal Displacement,All this uncertainty makes it hard to believe in a brighter future.,Ця невизначеність ускладнює віру в яскраве майбутнє.
 DIS_083,Internal Displacement,I wish I could just call home and everything would be okay again.,"Хотів би, щоб я міг просто зателефонувати додому і все було б нормально."
@@ -403,7 +403,7 @@ TEN_001,Tension,"I've been feeling irritated all day and I don't even know why. 
 TEN_002,Tension,"Things at home have been uncomfortable lately. We barely talk, everyone seems upset, and I feel the tension every time we're together.","Останнім часом удома якось некомфортно. Ми майже не розмовляємо, усі ніби чимось засмучені, і я відчуваю цю напругу щоразу, коли ми разом."
 TEN_003,Tension,My workload has been crazy and I’m starting to feel really overwhelmed at work.,"У мене просто шалена завантаженість на роботі, і я починаю почуватися просто пригніченим."
 TEN_004,Tension,"With all these deadlines coming up, I can barely catch my breath. It’s really stressing me out.",У зв’язку з усіма цими дедлайнами я ледь встигаю перевести подих. Це мене дійсно сильно дратує.
-TEN_005,Tension,I’m worried about the meeting next week. It could really change things for me.,Хвилююсь за нараду на наступний тиждень. Це може суттєво вплинути на мої справи.
+TEN_005,Tension,I’m worried about the meeting next week. It could really change things for me.,Мене турбує зустріч наступного тижня. Вона може серйозно змінити моє життя..
 TEN_006,Tension,"I keep thinking I’m not doing enough to secure my job, and it’s eating at me.","Я постійно думаю, що не роблю достатньо, щоб втримати роботу, і це мене гризе."
 TEN_007,Tension,Balancing studies and part-time work is exhausting. I’m not sure how much longer I can manage.,"Поєднувати навчання та роботу на пів ставки виснажує. Не впевнений, скільки ще зможу тягнути."
 TEN_008,Tension,"The expectations for my performance at work are really high, and I feel like I'm constantly under pressure.","Очікування щодо моєї роботи дуже високі, і я відчуваю постійний тиск."
@@ -418,7 +418,7 @@ TEN_016,Tension,"I’m on the verge of burnout, trying to juggle this crazy sche
 TEN_017,Tension,The pressure to succeed academically is really taking a toll on me.,Тиск через необхідність успішно вчитися дуже впливає на мене.
 TEN_018,Tension,I feel like I’m always rushing to meet deadlines and never have time to breathe.,"Відчуваю, що постійно біжу, щоб встигнути до дедлайнів, і часу перевести подих просто немає."
 TEN_019,Tension,"There’s an underlying tension at work, and it’s making me uneasy every day.","На роботі якась підґрунтова напруга, і кожного дня мені від цього неспокійно."
-TEN_020,Tension,Dealing with office politics is starting to overwhelm me. It’s so draining.,Розбірки з офісною політикою починають мене ущемлювати. Це так виснажливо.
+TEN_020,Tension,Dealing with office politics is starting to overwhelm me. It’s so draining.,Справлятися з офісною політикою стає для мене нестерпно важко. Це так вимотує.
 TEN_021,Tension,I’m afraid of making any mistakes in my new role. The stress is intense.,Боюся робити помилки на новій посаді. Стрес надзвичайний.
 TEN_022,Tension,Struggling with schoolwork is making me tense all the time.,Невдачі з навчанням роблять мене постійно напруженим.
 TEN_023,Tension,Finding a balance between my studies and personal life seems impossible.,"Здається, знайти баланс між навчанням та особистим життям просто неможливо."

@@ -1,0 +1,7 @@
+Tested_Model,Language,Empathetic_Accuracy_Mean,Linguistic_Naturalness_Mean,Contextual_Cultural_Grounding_Mean
+DeepSeek,EN,3.084,3.280,2.200
+Gemini,EN,2.846,2.902,1.950
+LLaMA,EN,2.968,3.098,2.076
+DeepSeek,UA,3.044,3.682,2.940
+Gemini,UA,2.772,3.436,2.386
+LLaMA,UA,2.622,2.672,2.222
