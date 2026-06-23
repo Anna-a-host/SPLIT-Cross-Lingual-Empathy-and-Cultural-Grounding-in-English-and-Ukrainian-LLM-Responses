@@ -1,0 +1,4 @@
+Evaluation_Category,Sample_Size_n,Pearson_Correlation_r,Raw_P_Value_Scientific,P_Value_Decimal,Statistical_Significance,Mean_Absolute_Error_MAE,Systematic_Leniency_Bias,Empirical_Interpretation
+Empathetic Accuracy,300,0.198,5.59421e-04,0.000559421,Highly Significant (p < 0.001),0.721,0.281,Weak positive alignment; slight AI over-scoring tendency.
+Linguistic Naturalness,300,0.149,9.73347e-03,0.00973347,Significant (p < 0.01),0.81,0.506,Weak positive alignment; severe systematic AI leniency/inflation.
+Contextual & Cultural Grounding,300,-0.095,1.00980e-01,0.10098,Not Significant (p > 0.05),0.892,-0.114,Completely unaligned; erratic automated evaluation / cultural blindspot.

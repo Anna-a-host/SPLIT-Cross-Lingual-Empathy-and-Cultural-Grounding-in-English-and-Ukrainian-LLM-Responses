@@ -57,16 +57,16 @@ Therefore, the next logical step was the evaluation of the answers by three judg
 
 The assessments were produced successfully, and the code ran without crashing. To see the big picture of these machine evaluations, the average across different categories, like Language and the model undergoing assessment, was evaluated, thus giving us the data, which can be accessed via these files:
 
-    1. results\evaluations_by_LLMs\evaluation_claude.csv
-    2. results\evaluations_by_LLMs\evaluation_gpt-4o.csv
-    3. results\evaluations_by_LLMs\evaluation_mistral.csv
+    1. results\evaluations_by_LLMs/evaluation_claude.csv
+    2. results\evaluations_by_LLMs/evaluation_gpt-4o.csv
+    3. results\evaluations_by_LLMs/evaluation_mistral.csv
 
 Please note that the averages are grouped by the judging models, rather than the evaluated ones. 
 This structure is going to simplify the process of performance comparisons between the models.
 
 Consequently, the main mean number on a (1-5) scale was calculated, showing us the final, approximate outcome of this study (specifically for LLMs). It can be accessed via this file:
 
-    grand_average_src\grand_average.csv
+    grand_average_src/grand_average.csv
 
 The results leave a lot of space for future evaluations and, therefore, explanations. They are all going to be assessed in the paper, which is now in its active production process. 
 
@@ -88,3 +88,22 @@ During the next several days, the evaluation process will be finished; thus, the
 
 ***Note: the reason why the research is moving so quickly is our genuine desire to assess the empathy divergence in AI-generated responses. A number of papers were explored preliminarily, thus creating a strong foundation for fast research evolution. Moreover, some interesting data was gathered, only reinforcing our desire to continue dedicating 6-8 hours a day to the project.***
 
+
+
+### 20-23rd of June
+
+During these days, we actively worked on manually validating the 300 sample answers, equally split between 2 languages and 3 models. Once this part was completed, the next logical step was to extract identical rows from the following files:
+
+    results/evaluations_by_LLMs/evaluation_claude.csv
+    results/evaluations_by_LLMs/evaluation_gpt-4o.csv
+    results/evaluations_by_LLMs/evaluation_mistral.csv
+
+As these 300 rows were assessed by a human expert preliminarily (following the structure described above), the average AI score for every dimension for each of the answers was calculated to further find the Pearson Correlation Coefficient between human and LLMs' alignment. Average LLMs' assessments can be accessed via
+
+300_average_evaluations_for_300_answers/AI_300_average_jury_scores.csv
+
+Consequently, the Correlation Coefficient was successfully calculated and put into
+SPLIT_Benchmark_Final_Metrics.csv file. To ensure accuracy and transparency of the current study, another formula was adopted to calculate Mean Absolute Error (MAE). Providing us with even more data, these results allow us to make more reasonable conclusions in the Results and Discussion sections.
+
+
+***Overall, our findings serve as a justification of the ones preliminarily found in LLMs' abilities when adapting to specific cultures. They additionally indicate, that Empathetic accuracy and Linguistic Naturalness are vulnerable areas for a LLM-as-a-jury set-up. A comprehensive analysis is currently being held and will soon be published.***
