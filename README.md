@@ -173,3 +173,8 @@ SPLIT-Benchmark/
 │   │   ├── generate_answers.py [Script deploying the three evaluated models to produce responses for the 500 prompts]
 │   │   └── generate_queries.py [Script automating the initial framework generation of potential user crisis queries]
 ```
+
+
+### LICENSE
+
+This project is licensed under the MIT License.
