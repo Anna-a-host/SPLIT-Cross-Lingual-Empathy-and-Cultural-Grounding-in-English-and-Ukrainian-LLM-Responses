@@ -1,4 +1,6 @@
-# SPLIT: Benchmarking Cross-Lingual Empathy Divergence and Conversational Discrepancies in English and Ukrainian LLM Responses
+# SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLMs
+## Producing Ukrainian Text Is Not Equivalent to Producing Ukrainian Emotional Support
+
 
 ## OUR GOAL
 
