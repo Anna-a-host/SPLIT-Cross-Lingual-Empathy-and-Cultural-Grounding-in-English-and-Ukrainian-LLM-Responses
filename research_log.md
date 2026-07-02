@@ -14,7 +14,7 @@ Rigorous research has been accomplished, studying a range of related papers avai
 
 During this time, the overall idea of the study was fully shaped, with it being named as follows: 
 
-**# SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLMs**
+**# SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLM Responses**
 
 
 

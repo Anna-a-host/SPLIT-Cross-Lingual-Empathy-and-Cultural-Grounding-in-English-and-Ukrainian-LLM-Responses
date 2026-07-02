@@ -1,4 +1,4 @@
-# SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLMs
+# SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLM Responses
 ## Producing Ukrainian Text Is Not Equivalent to Producing Ukrainian Emotional Support
 
 
