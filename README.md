@@ -12,8 +12,10 @@ To bridge the existing performance gap, we introduce SPLIT - a 500-prompt divers
 
 Therefore, the aim of this study is to provide answers to the research questions as follows:
 
-* **RQ1:** How do state-of-the-art Large Language Models differ in empathetic response quality across English and Ukrainian crisis-related scenarios?
-* **RQ2:** What linguistic and conversational discrepancies emerge when LLMs generate responses across English and Ukrainian crisis-related scenarios?
+* **RQ1:** How do state-of-the-art LLMs differ in empathetic response quality between English and
+Ukrainian crisis-related scenarios?
+* **RQ2:** What linguistic and conversational discrepancies emerge when LLMs generate responses to
+English and Ukrainian crisis-related scenarios?
 * **RQ3:** To what extent do LLM-generated responses exhibit appropriate contextual and cultural grounding when addressing crisis scenarios in Ukrainian compared to English baselines?
 * **RQ4:** To what extent does automated LLM-based evaluation agree with human assessment of empathetic conversational responses?
 
@@ -90,9 +92,10 @@ To set up the environment and reproduce these statistical metrics, run the follo
 **Bash**
 
 ```bash
-git clone [https://github.com/Anna-a-host/SPLIT-Benchmarking-Cross-Lingual-Empathy-Divergence-and-Conversational-Discrepancies.git](https://github.com/Anna-a-host/SPLIT-Benchmarking-Cross-Lingual-Empathy-Divergence-and-Conversational-Discrepancies.git)
-   cd SPLIT-Benchmarking-Cross-Lingual-Empathy-Divergence-and-Conversational-Discrepancies
-```
+git clone https://github.com/Anna-a-host/SPLIT-Cross-Lingual-Empathy-and-Cultural-Grounding-in-English-and-Ukrainian-LLM-Responses.git
+
+cd SPLIT-Cross-Lingual-Empathy-and-Cultural-Grounding-in-English-and-Ukrainian-LLM-Responses
+
 
 ### Install project dependencies automatically:
 

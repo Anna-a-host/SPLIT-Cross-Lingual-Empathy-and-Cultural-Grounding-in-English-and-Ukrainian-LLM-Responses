@@ -107,3 +107,10 @@ SPLIT_Benchmark_Final_Metrics.csv file. To ensure accuracy and transparency of t
 
 
 ***Overall, our findings serve as a justification of the ones preliminarily found in LLMs' abilities when adapting to specific cultures. They additionally indicate, that Empathetic accuracy and Linguistic Naturalness are vulnerable areas for a LLM-as-a-jury set-up. A comprehensive analysis is currently being held and will soon be published.***
+
+
+### 2nd - 3rd of July
+
+The content of the paper introducing the SPLIT benchmark has been successfully published on arXiv. The full PDF can be accessed via the following link:
+
+https://arxiv.org/abs/2607.02049
